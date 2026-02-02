@@ -45,7 +45,7 @@ print(too_big)
 
 # Create a variable `name_length` that holds how many letters (including spaces)
 # are in your name, using the variable you made above. (use the `nchar()` function)
-name_length <- nchar(5)
+name_length <- nchar(my_name)
 
 # Print the number of letters in your name
 print(name_length)
