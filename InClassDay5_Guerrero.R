@@ -13,7 +13,7 @@
 ### PART ONE - Review of Objects ####
 
 # Assign your name to a variable called `my_name`
-my_name <- Tyler
+my_name <- "Tyler"
 
 # Assign the number of pets you have to a variable called `num_pets`
 num_pets <- 1
