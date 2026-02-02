@@ -52,11 +52,15 @@ print(name_length)
 
 # Create a variable `now_doing` that is your name followed by "is programming!" 
 # (use the `paste()` function)
+now_doing <- paste("Tyler is programming!")
 
 # Make the `now_doing` variable upper case
+now_doing <- toupper(now_doing)
 
 # Pick two of your favorite numbers (between 1 and 100) and assign them to 
 # variables `fav_1` and `fav_2`
+fav_1 <- 13
+fav_2 <- 20
 
 # Divide each number by the square root of 201 and save the new value in the
 # original variable
